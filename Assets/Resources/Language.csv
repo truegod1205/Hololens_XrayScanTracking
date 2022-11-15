@@ -1,0 +1,22 @@
+Key,English,Chinese
+Main_Menu_Settings,Settings,參數設定
+Main_Menu_TestMode,Test Mode,測試模式
+Main_Menu_ReadingMode,Reading Mode,閱讀模式
+Main_Settings_Language,Language,語言設定
+Main_Settings_Language_Chinese,Chinese,中文
+Main_Settings_Language_English,English,英文
+Main_Settings_ScreenWidth,Screen Width,螢幕寬度
+Main_Settings_ScreenHeight,Screen Height,螢幕高度
+Main_Settings_HorizontalPartition,H Partition,水平分割
+Main_Settings_VerticalPartition,V Partition,垂直分割
+Main_Settings_TimeLimit,TimeLimit(PerGrid),時間限制(每格)
+Main_Menu_Leave,Leave,離開
+Test_Menu_StayTest,Stay Test,繼續測試
+Test_Menu_LeaveTest,Leave Test,離開測試
+Test_Screen_StartTest,Start Test,開始測試
+Test_Screen_RestartTest,Restart Test,重新測試
+Reading_Menu_StayReading,Stay Reading,繼續閱讀
+Reading_Menu_LeaveReading,Leave Reading,離開閱讀
+Reading_Screen_StartReading,Start Reading,開始閱讀
+General_Scan4QRCodes,Please Scan 4 QRCodes,請掃描 4 個QRCodes
+General_Screen_ReScanQRCode,Rescan QRCodes,重新掃描QRCodes
