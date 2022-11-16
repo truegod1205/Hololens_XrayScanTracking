@@ -49,5 +49,5 @@ And my program records how many pieces this physician missed, then produce a rep
 
 ## Demo
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/i92U5Zxd2pg/0.jpg)](https://www.youtube.com/watch?v=i92U5Zxd2pg "Hololens eye tracking.")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/qku6mfjdQHc/0.jpg)](https://www.youtube.com/watch?v=qku6mfjdQHc "Hololens Xray Scan Tracking")
 
